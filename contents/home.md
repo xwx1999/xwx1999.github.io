@@ -1,4 +1,3 @@
-![image](https://github.com/xwx1999/xwx1999.github.io/assets/150652075/d8fcfe6d-5051-4044-8524-a92d6ce3ed76)
 #### Biography
 Currently, I'm a master's degree candidate at Agricultural Information Institute of Chinese Academy of Agricultural Sciences under the supervision of Professor [Xiujuan Chai](https://aii.caas.cn/rcdw/gjzc/yjy/7fb2596ddfb84ba59f14e143a154513e.htm). 
 
@@ -22,7 +21,7 @@ Computer Vision, AI4Science, Deep Learning on Edge Devices.
 #### Skills
 * **Computer Vision:** Proficient in using the PyTorch framework, with the ability to reproduce mainstream models in the industry such as YOLO series, Diffusion series and LLaVa. Skilled in using quantization and inference tools such as QLoRA, vLLM as well as distributed parallel training using training tools like DeepSpeed.
 
-* **High Performance Computing:** Proficient in CUDA Programming, familiar with C++, knowledgeable in compiler optimization principles, and understanding of MPI, OpenMP, and SIMD acceleration optimization technologies.
+* **High Performance Computing in Deep Learning:** Proficient in CUDA Programming, familiar with C++, knowledgeable in compiler optimization principles, and understanding of MPI, OpenMP, and SIMD acceleration optimization technologies.
 
 * **Computer System Architecture:** Familiar with GPU architecture and RISC-V instruction set, and has participated in the [One Life, One Core](https://ysyx.oscc.cc/) project.
 
