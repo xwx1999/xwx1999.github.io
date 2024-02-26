@@ -1,5 +1,5 @@
 #### Biography
-Currently, I'm a master degree candidate at Agricultural Information Institute of Chinese Academy of Agricultural Sciences under the supervision of Professor [Xiujuan Chai](https://aii.caas.cn/rcdw/gjzc/yjy/7fb2596ddfb84ba59f14e143a154513e.htm). 
+Currently, I'm a master degree candidate at Agricultural Information Institute of Chinese Academy of Agricultural Sciences under the supervision of Professor [Xiujuan Chai](https://aii.caas.cn/rcdw/gjzc/yjy/7fb2596ddfb84ba59f14e143a154513e.htm). Additionally, I am serving as an intern at the System Intelligence Group of MSRA, where I am guided by researcher [Christina Han](https://scholar.google.com/citations?user=UUyVnqgAAAAJ&hl=zh-CN&oi=ao).
 
 My research interests include Computer Vision (CV) and its applications in agriculture, such as animal face recognition. I am also interested in AI for Science including computational biology, and the deployment and optimization of deep learning models on edge devices.
 
